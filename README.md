@@ -1,4 +1,4 @@
-# STAR-WARS APP
+# <div align="center">STAR-WARS APP</div>
 
 ## Environment Variables
 
